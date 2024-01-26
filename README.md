@@ -1,2 +1,3 @@
 # 4_Images_Stitching_Cpp_OpenCV
 OpenCV C++ Image Stitching of 4 images in Real-Time.
+This is an implmentation of Stitching Algorithm to 4 Images captured and stitched in Real-Time. The work is done entirely in OpenCV C++ and is a part of SeaClear [https://seaclear-project.eu/] Project. There were numerous experiments conducted to figure out the perfect configuration and orientation of the 4-Camera setup inside the ITR Lab at TU Munich. Very few results are shared in this github repository to share the idea of the internal workings. Some variables are: distance between the cameras along x-direction, distance between the cameras along y-direction, inclination of cameras out-of-plane of the frame, etc.   
